@@ -9,7 +9,8 @@
         android:text="Happy Birthday, Moro!"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="36sp"/>
+        android:textSize="36sp"
+        android:fontFamily="sans-serif-light"/>
 
     <TextView
         android:text="From, Nico"
@@ -17,7 +18,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
-        android:textSize="36sp"/>
+        android:textSize="36sp"
+        android:fontFamily="sans-serif-light"/>
 
     <ImageView
         android:src="@drawable/androidparty"
