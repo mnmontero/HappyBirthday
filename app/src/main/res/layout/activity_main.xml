@@ -6,16 +6,18 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:text="Happy Birthday Moroco!"
+        android:text="Happy Birthday, Moro!"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textSize="36sp"/>
 
     <TextView
         android:text="From, Nico"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"/>
+        android:layout_alignParentBottom="true"
+        android:textSize="36sp"/>
 
     <ImageView
         android:src="@drawable/androidparty"
